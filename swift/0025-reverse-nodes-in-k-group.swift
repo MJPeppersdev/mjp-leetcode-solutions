@@ -1,4 +1,4 @@
-class ReverseKGroup {
+class Solution {
     func reverseKGroup(_ head: ListNode?, _ k: Int) -> ListNode? {
         var dummy = ListNode(0, head)
         var groupPrev: ListNode? = dummy
