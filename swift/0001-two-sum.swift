@@ -1,4 +1,4 @@
-class TwoSum {
+class Solution {
     func twoSum(_ nums: [Int], _ target: Int) -> [Int] {
         var prevMap = [Int:Int]() // val -> index
         
