@@ -1,4 +1,4 @@
-class MergeKLists {
+class Solution {
     func mergeKLists(_ lists: [ListNode?]) -> ListNode? {
         guard lists.contains(where: { $0 != nil }) else { return nil }
 
