@@ -1,4 +1,4 @@
-class Solution1 {
+class Solution {
 
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists == null || lists.length == 0) {
