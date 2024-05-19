@@ -21,3 +21,4 @@ class Solution {
         }
         return kthPerm.toString();
     }
+}
