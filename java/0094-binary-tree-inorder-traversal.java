@@ -18,3 +18,20 @@ class Solution {
         }
 
         return res;
+
+        //recursive
+        // List<Integer> res = new ArrayList<>();
+        // dfs(root, res);
+        // return res;
+    }
+
+    // public void dfs(TreeNode n, List<Integer> res) {
+    //     if(n == null) {
+    //         return;
+    //     }
+        
+    //     dfs(n.left, res);
+    //     res.add(n.val);
+    //     dfs(n.right, res);
+    // }
+}
