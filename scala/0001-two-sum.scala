@@ -12,3 +12,4 @@ object Solution {
       .map { case (v, i) => Array(i, compliment(v).get) }
       .orNull
   }
+}
