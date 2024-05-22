@@ -1,4 +1,4 @@
-class ProductExceptSelf {
+class Solution {
     func productExceptSelf(_ nums: [Int]) -> [Int] {
         var res = [Int](repeating: 1, count: nums.count)
         
