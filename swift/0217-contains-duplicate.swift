@@ -1,4 +1,4 @@
-class ContainsDuplicate {
+class Solution {
     func containsDuplicate(_ nums: [Int]) -> Bool {
         var hashSet = Set<Int>()
         for n in nums {
