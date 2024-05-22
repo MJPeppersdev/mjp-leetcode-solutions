@@ -1,4 +1,4 @@
-class Solution {
+class RandomizedSet {
     var random = Set<Int>()
 
     init() {
