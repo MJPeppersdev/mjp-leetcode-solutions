@@ -1,8 +1,3 @@
-/*
-    * Time Complexity: O(logn)
-    * Space Complexity: O(n)
-*/
-
 class MedianFinder {
     public minHeap;
     public maxHeap;
