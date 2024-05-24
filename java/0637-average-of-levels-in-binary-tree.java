@@ -1,5 +1,3 @@
-//Apply Breadth first search.
-//Asked in Amazon and Meta
 class Solution {
 
     public List<Double> averageOfLevels(TreeNode root) {
