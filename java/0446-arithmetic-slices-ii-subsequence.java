@@ -1,4 +1,4 @@
-public class Solution {
+class Solution {
     public int numberOfArithmeticSlices(int[] nums) {
         int res = 0;
         int n = nums.length;
