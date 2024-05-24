@@ -1,5 +1,3 @@
-// Solution: Greedy Approach with Min Heap
-// Time Complexity: O((n^2)*log(n))
 class Solution {
 
     private int[][] dirs = { { -1, 0 }, { 1, 0 }, { 0, -1 }, { 0, 1 } };
