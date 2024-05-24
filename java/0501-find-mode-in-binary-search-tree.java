@@ -1,7 +1,4 @@
 class Solution {
-    /**
-     * BFS Solution with Runtime Complexity O(n) -> O(n log n)
-     */
     public int[] findMode(TreeNode root) {
         if (root == null) return new int[0];
         List<Integer> curr = new ArrayList<>();
