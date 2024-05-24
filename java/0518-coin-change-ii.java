@@ -1,5 +1,3 @@
-// Dynammic Programming - Tabulation
-// Time Complexity (n * amount) | Space Complexity (amount) where n is the length of coins
 class Solution {
 
     public int change(int amount, int[] coins) {
