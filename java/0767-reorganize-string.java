@@ -1,5 +1,3 @@
-//See this comment for explanation https://leetcode.com/problems/reorganize-string/discuss/113440/Java-solution-PriorityQueue/211009
-
 class Solution {
 
     public String reorganizeString(String s) {
