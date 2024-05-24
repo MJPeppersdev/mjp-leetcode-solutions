@@ -1,5 +1,3 @@
-// Bellman Ford ALgorithm
-// Time Complexty (n * t) | Space Complexity O(n) where t is the length of times
 class Solution {
 
     public int networkDelayTime(int[][] times, int n, int k) {
