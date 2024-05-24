@@ -1,6 +1,3 @@
-//We are basically storing sum%k and storing it in the hashmap and checking it.
-//Math logic is that the overall sum will get cancelled out because of modulo
-
 class Solution {
     public boolean checkSubarraySum(int[] nums, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
