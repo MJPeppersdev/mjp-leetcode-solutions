@@ -1,4 +1,4 @@
-class LRUCache {
+class Solution {
 
     private Map<Integer, Node> cache;
     private int capacity;
