@@ -1,4 +1,4 @@
-class BSTIterator {
+class Solution {
 
     TreeNode iterator;
     Queue<Integer> traversal;
