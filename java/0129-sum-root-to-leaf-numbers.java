@@ -1,8 +1,4 @@
 class Solution {
-    /*
-        Time complexity: O(V) where V is the number of vertices
-        Space complexity: O(h) where h is the height of the tree
-    */
 
     public int sumNumbers(TreeNode root) {
         // track the sum that we want to add
