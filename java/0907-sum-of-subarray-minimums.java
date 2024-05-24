@@ -1,7 +1,3 @@
-/*-------------------------------
-  Time Complexity: O(n)
-  Space Complexity: O(n)
--------------------------------*/
 class Solution {
     public int sumSubarrayMins(int[] arr) {
         int MOD = 1000000007;
