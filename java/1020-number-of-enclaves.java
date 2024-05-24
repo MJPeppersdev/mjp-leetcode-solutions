@@ -1,12 +1,3 @@
-/*
-The basic idea is to iterate through the boundary
-If we encounter any island i.e. 1 then we will run DFS
-And update all those islands as 2
-
-Then check for the number of 1s remaining in the board 
-Since those are the ones that have not been visited and return
-*/
-
 class Solution {
     public int count(int [][]board){
         int c = 0;
