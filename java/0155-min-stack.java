@@ -1,4 +1,4 @@
-class MinStack {
+class Solution {
 
     private Stack<Integer> stack;
     private Stack<Integer> minStack;
