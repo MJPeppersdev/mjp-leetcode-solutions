@@ -1,7 +1,3 @@
-/*--------------------------
-  Time Complexity: O(n)
-  Space Complexity: O(n)
----------------------------*/  
 class Solution {
     public int rangeSumBST(TreeNode root, int low, int high) {
         if(root == null)
