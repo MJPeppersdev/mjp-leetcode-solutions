@@ -1,5 +1,3 @@
-//Just store the value for parent values of the nodes in a map and just do bfs as we do in graph.
-
 class Solution {
 
     public List<Integer> distanceK(TreeNode root, TreeNode target, int k) {
