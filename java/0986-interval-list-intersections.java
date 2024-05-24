@@ -1,6 +1,3 @@
-//Taken from solution section
-//Just two pointer approach
-
 class Solution {
 
     public int[][] intervalIntersection(int[][] A, int[][] B) {
