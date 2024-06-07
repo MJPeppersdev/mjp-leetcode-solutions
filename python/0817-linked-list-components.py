@@ -1,0 +1,11 @@
+class Solution:
+    def numComponents(self, head: Optional[ListNode], nums: List[int]) -> int:
+        ans = 0
+        s = set(nums)
+        while head:
+            while head and head.val not in s:
+                head = head.next
+            ans += head is not None
+            while head and head.val in s:
+                head = head.next
+        return ans
